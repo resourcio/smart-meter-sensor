@@ -1,0 +1,8 @@
++1,33,o,16,9600
+1,1-0:1.8.0*255(@1,Bezugszähler,kWh,Total_in,0
+1,1-0:2.8.0*255(@1,Einspeisezähler,kWh,Total_out,0
+1,1-0:16.7.0*255(@1,Leistung,W,Power_curr,0
+1,1-0:1.8.0*96(@1,Verbrauch 1 Tag,kWh,total_1d,1
+1,1-0:1.8.0*97(@1,Verbrauch 7 Tage,kWh,total_7d,1
+1,1-0:1.8.0*98(@1,Verbrauch 30 Tage,kWh,total_30d,1
+1,1-0:1.8.0*99(@1,Verbrauch 365 Tage,kWh,total_365d,1
