@@ -15,6 +15,7 @@ Tasmota firmware supports a wide range of smart meters using the SML (Smart Mess
 
 Please note that this is not an exhaustive list, and Tasmota firmware supports numerous other smart meters using the SML protocol. It is always recommended to refer to the Tasmota documentation and community forums for the most up-to-date information on supported smart meters and their specific configurations.
 
+<a href="https://www.tindie.com/stores/resourcio/?ref=offsite_badges&utm_source=sellers_Resourcio&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>
 
 ## How to create SML scripts which are downloaded by the tasmota device
 1. run `./build_configs.sh`
